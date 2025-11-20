@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # OpenRouter API Configuration
-API_KEY="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"
+API_KEY=""
 MODEL="meta-llama/llama-3.3-70b-instruct:free"
 API_URL="https://openrouter.ai/api/v1/chat/completions"
 
